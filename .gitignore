@@ -1,0 +1,17 @@
+# Ignorar diretório node_modules
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Diretórios de cache
+.cache/
+.angular/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de build
+dist/
+build/
